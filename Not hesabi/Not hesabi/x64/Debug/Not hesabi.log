@@ -1,3 +1,0 @@
-﻿  nothesabi.c
-C:\Users\eksi2\source\repos\Not hesabi\nothesabi.c(299,5): warning C4013: 'getch' undefined; assuming extern returning int
-  Not hesabi.vcxproj -> C:\Users\eksi2\source\repos\Not hesabi\x64\Debug\Not hesabi.exe
